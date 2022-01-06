@@ -31,3 +31,9 @@ there are 2 ways:
 Way 1
 
 Open bot/data/account.json
+change the parameter "cogs" and add to ["fun.py", "activity.py"]
+your file to get it:
+```py
+["fun.py", "activity.py", myfile.py"]
+```
+! Attention! don't forget about square brackets
