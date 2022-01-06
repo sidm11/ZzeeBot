@@ -16,3 +16,9 @@ this bot is for discord account.
 this program was written completely from scratch in disnake.py (discord.py)
 this program is still in alpha testing, there may be bugs ...
 good luck using it!
+
+# How to install and run?
+```py
+# Linux
+git clone https://github.com/KOTE-debug/zzeeBot
+cd bot && python start.py
