@@ -7,3 +7,5 @@ this program violates the ToC discord rules!
 your discord account may be blocked!
 
 happy use! <3
+
+# How do I get my token?
