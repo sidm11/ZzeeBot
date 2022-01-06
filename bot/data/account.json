@@ -1,6 +1,0 @@
-{
-	"token": "token",
-	"prefix": "+",
-	"logsID": 0,
-	"cogs": ["fun.py", "activity.py", "mass.py"]
-}
