@@ -1,7 +1,7 @@
 {
-	"token": "OTI2MDEzNjM1ODYyNjAxNzQ4.Yc1faQ.8wmrleZuRU2AR1CkzRS14m3ZmHM",
+	"token": "token",
 	"prefix": "+",
-	"logsID": 926014104597053472,
-	"ownerID": 926013635862601748,
+	"logsID": 0,
+	"ownerID": 0,
 	"cogs": ["fun.py", "activity.py", "mass.py"]
 }
