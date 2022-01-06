@@ -9,3 +9,4 @@ your discord account may be blocked!
 happy use! <3
 
 # How do I get my token?
+<img src="howtogettoken.gif" width="1000">
