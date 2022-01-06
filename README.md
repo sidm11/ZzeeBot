@@ -59,3 +59,5 @@ async def commandName(self, ctx):
 def setup(zzee):
     zzee.add_cog(mass(zzee))
 ```
+# way 2
+Open bot/start.py
