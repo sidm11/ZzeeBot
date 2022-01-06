@@ -42,3 +42,20 @@ now create a new file along the path: bot / cogs
 let's call it as you indicated in the config!
 
 and insert there:
+```py
+# imports
+import discord, pyfiglet
+from discord.ext import commands as zzee 
+# class
+class mass(zzee.Cog):
+    def __init__(self, zzee):
+        self.zzee = zzee
+#commands
+        
+@zzee.command()
+async def commandName(self, ctx):
+    await ctx.send("hello world!") #you code
+
+def setup(zzee):
+    zzee.add_cog(mass(zzee))
+```
