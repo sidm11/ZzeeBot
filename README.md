@@ -38,4 +38,7 @@ your file to get it:
 ```
 ! Attention! don't forget about square brackets
 
-Create new file
+now create a new file along the path: bot / cogs
+let's call it as you indicated in the config!
+
+and insert there:
