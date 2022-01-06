@@ -28,7 +28,7 @@ there are 2 ways:
 1.via cogs
 2.addle to the main file
 
-Way 1
+# Way 1
 
 Open bot/data/account.json
 change the parameter "cogs" and add to ["fun.py", "activity.py"]
@@ -37,3 +37,5 @@ your file to get it:
 ["fun.py", "activity.py", "myfile.py"]
 ```
 ! Attention! don't forget about square brackets
+
+Create new file
