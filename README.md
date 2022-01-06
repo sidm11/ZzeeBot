@@ -47,7 +47,7 @@ and insert there:
 import discord, pyfiglet
 from discord.ext import commands as zzee 
 # class
-class mass(zzee.Cog):
+class name(zzee.Cog):
     def __init__(self, zzee):
         self.zzee = zzee
 #commands
