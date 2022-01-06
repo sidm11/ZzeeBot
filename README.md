@@ -74,5 +74,14 @@ because the cogs are automatically updated, that is, you do not need to restart 
 choice with yours.
 
 # varibles
-| {name} | info | |
-| {__token__} | send your token | |
+```
+{name} - info
+
+{__token__} - send your token
+{__lastRun__} - last run
+{__starttime__} - starting time
+{__prefix__} - send your prefix
+{__logsID__} - send your logs channel id
+{__ownerID__} - send owner id
+{__logo__} - send zzee logo
+```
