@@ -60,4 +60,11 @@ def setup(zzee):
     zzee.add_cog(mass(zzee))
 ```
 # way 2
-Open bot/start.py
+bot/start.py
+now we open the start.py file
+and insert the following code there:
+```py
+@zzee.command()
+async def commandName(ctx):
+    await ctx.send("hello world!") #you code
+```
