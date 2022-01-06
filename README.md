@@ -22,3 +22,12 @@ good luck using it!
 # Linux
 git clone https://github.com/KOTE-debug/zzeeBot
 cd bot && python start.py
+```
+# How do I import my team into the bot?
+there are 2 ways:
+1.via cogs
+2.addle to the main file
+
+Way 1
+
+Open bot/data/account.json
