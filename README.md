@@ -68,7 +68,7 @@ and insert the following code there:
 async def commandName(ctx):
     await ctx.send("hello world!") #you code
 ```
-and yes, you probably think "why kogi? if you can use option 2."
+and yes, you probably think "why cogs? if you can use option 2."
 1 option is better than 2
 because the cogs are automatically updated, that is, you do not need to restart the bot every time + the bot starts up faster with them.
 choice with yours.
