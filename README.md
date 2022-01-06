@@ -74,5 +74,5 @@ because the cogs are automatically updated, that is, you do not need to restart 
 choice with yours.
 
 # varibles
-| {name} | info |
-| {__token__} | send your token |
+| {name} | info | |
+| {__token__} | send your token | |
