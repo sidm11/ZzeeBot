@@ -1,6 +1,6 @@
 # Zzee selfbot
 Discord.py selfbot
-
+Version: 1.0
 ## ATTENTION!
 we are not responsible for your discord account!
 this program violates the ToS discord rules!
